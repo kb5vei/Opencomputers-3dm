@@ -1,0 +1,17 @@
+{
+	label = "Gold Candle",
+	tooltip = "This is a 3D Printed Golden Candlestick.",
+	lightlevel = 8,
+	emitRedstone = false,
+	buttonMode = false,
+
+	shapes = {
+		{3, 0, 3, 13, 1, 13, texture = "gold_block" },
+	        {5,1,5,11,4,11, texture = "gold_block"},
+	        {6,4,6,10,12,10, texture = "quartz_block_side"},
+	        {7,12,7,9,14,9, texture = "wool_colored_black"},
+	        {7,14,7,9,16,9, texture = "quartz_block_side", tint = 0xFFAA00}
+	}
+
+}
+

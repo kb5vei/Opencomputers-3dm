@@ -1,0 +1,13 @@
+{
+  label = "Pyramid of Diamond - Small",
+  shapes = {
+      {0,0,0,16,1,16, texture="diamond_block"},
+    {1,1,1,15,2,15, texture="diamond_block"},
+    {2,2,2,14,3,14, texture="diamond_block"},
+    {3,3,3,13,4,13, texture="diamond_block"},
+    {4,4,4,12,5,12, texture="diamond_block"},
+    {5,5,5,11,6,11, texture="diamond_block"},
+    {6,6,6,10,7,10, texture="diamond_block"},
+    {7,7,7,9,8,9, texture="diamond_block"},
+    }
+}

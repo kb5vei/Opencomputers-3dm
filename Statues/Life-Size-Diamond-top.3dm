@@ -1,0 +1,13 @@
+{
+  label = "Statue - Life Size - Top Half",
+  shapes = {
+
+      {4,0,6,12,8,14, texture="diamond_block"}, --Torso-Top
+      {6,8,8,10,10,12, texture="diamond_block"}, --Neck
+      {5,10,7,11,16,13, texture="diamond_block"}, --Head
+      {3,6,8,4,8,12, texture="diamond_block"}, --Left Shoulder
+      {0,0,8,3,8,12, texture="diamond_block"}, --Left Arm
+       {12,6,8,13,8,12, texture="diamond_block"}, --Right Shoulder
+      {13,0,8,16,8,12, texture="diamond_block"}, --Right Arm
+  }
+}

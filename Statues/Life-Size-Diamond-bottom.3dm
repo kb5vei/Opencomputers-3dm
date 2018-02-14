@@ -1,0 +1,11 @@
+{
+  label = "Statue - Life Size - Bottom Half",
+  shapes = {
+      {2,0,4,7,3,12, texture="diamond_block"}, --left foot
+      {9,0,4,14,3,12, texture="diamond_block"}, --right foot
+      {2,3,8,7,13,12, texture="diamond_block"}, --left leg
+      {9,3,8,14,13,12, texture="diamond_block"}, --Right Leg
+      {4,13,6,12,16,14, texture="diamond_block"}, --Torso-Bottom
+      
+  }
+}
