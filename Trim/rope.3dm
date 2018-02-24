@@ -1,0 +1,16 @@
+{
+  label = "Stone Brick Stairs",
+  shapes = {
+    {7, 0, 6, 9, 16, 9, texture = "planks_big_oak"},
+    {5, 11, 6, 7, 13, 9, texture = "stone_andesite"},
+    {3, 9, 6, 5, 11, 9, texture = "stone_andesite"},
+    {0, 8, 6, 3, 10, 9, texture = "stone_andesite"},
+  --  {0, 7, 6, 1, 9, 9, texture = "stone_andesite"},
+    {9, 11, 6, 11, 13, 9, texture = "stone_andesite"},
+    {11, 9, 6, 13, 11, 9, texture = "stone_andesite"},
+    {13, 8, 6, 16, 10, 9, texture = "stone_andesite"},
+--    {15, 7, 6, 16, 9, 9, texture = "stone_andesite"},
+    
+    
+  }
+}

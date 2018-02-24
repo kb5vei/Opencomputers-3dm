@@ -1,0 +1,13 @@
+{
+  label = "Handrail for use on slabs part 1",
+  tooltip = "§7 This is a handrail.",
+  shapes={{7,8,0,8,9,2,texture="iron_block"},
+      {7,9,2,8,10,4,texture="iron_block"},
+      {7,10,4,8,11,6,texture="iron_block"},
+      {7,11,6,8,12,8,texture="iron_block"},
+      {7,12,8,8,13,10,texture="iron_block"},
+      {7,13,10,8,14,12,texture="iron_block"},
+      {7,14,12,8,15,14,texture="iron_block"},
+      {7,15,14,8,16,16,texture="iron_block"},
+      {7,0,7,8,12,8,texture="iron_block"}}
+}
