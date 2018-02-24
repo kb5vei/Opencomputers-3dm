@@ -1,0 +1,42 @@
+
+{
+  label = "Tabernacle 1",
+  tooltip = "This is an openable Tabernacle.",
+  lightLevel = 8,
+  emitRedstone = false,
+
+
+ shapes = {
+    {0, 0, 0, 16, 1, 16, texture = "gold_block"},
+    {1, 1, 1, 15, 2, 15, texture = "gold_block"},
+    {3, 2, 3, 14, 3, 14, texture = "gold_block"},
+    {6, 3, 6, 10, 4, 10, texture = "gold_block"},
+    {0, 5, 15, 16, 16, 16, texture = "gold_block"},
+    {0, 5, 15, 16, 16, 16, texture = "gold_block"},
+    {0, 4, 4, 16, 5, 16, texture = "gold_block"},
+    {0, 4, 4, 16, 16, 5, texture = "gold_block"},
+    {0, 15, 4, 16, 16, 16, texture = "gold_block"},
+    {0, 4, 4, 1, 16, 16, texture = "gold_block"},
+    {15, 4, 4, 16, 16, 16, texture = "gold_block"},
+    {1, 5, 3, 8, 16, 4, texture = "gold_block"},
+    {8, 5, 3, 15, 16, 4, texture = "gold_block"},
+    
+  {0, 0, 0, 16, 1, 16, texture = "gold_block", state=true},
+    {1, 1, 1, 15, 2, 15, texture = "gold_block", state=true},
+    {3, 2, 3, 14, 3, 14, texture = "gold_block", state=true},
+    {6, 3, 6, 10, 4, 10, texture = "gold_block", state=true},
+    {0, 5, 15, 16, 16, 16, texture = "gold_block", state=true},
+    {0, 5, 15, 16, 16, 16, texture = "gold_block", state=true},
+    {0, 4, 4, 16, 5, 16, texture = "gold_block", state=true},
+  --  {0, 4, 4, 16, 16, 5, texture = "gold_block"},
+    {0, 15, 4, 16, 16, 16, texture = "gold_block", state=true},
+    {0, 4, 4, 1, 16, 16, texture = "gold_block", state=true},
+    {15, 4, 4, 16, 16, 16, texture = "gold_block", state=true},
+    {0, 5, 0, 1, 16, 4, texture = "gold_block", state=true},
+    {15, 5, 0, 16, 16, 4, texture = "gold_block", state=true},
+
+
+
+  }
+}
+
